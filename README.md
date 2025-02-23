@@ -10,4 +10,4 @@ Una página web que muestra Pokémones usando la PokeAPI. Podés buscar, ver y e
 
 Accede al archivo index.html desde un navegador web.
 
-[Documentación de la PokeApi]("https://pokeapi.co/docs/v2")
+Documentación de la PokeApi: https://pokeapi.co/docs/v2
